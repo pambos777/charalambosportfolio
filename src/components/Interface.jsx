@@ -75,7 +75,7 @@ const AboutSection = (props) => {
         <br />
         after graduating from Computer Science degree.
       </motion.p>
-      <a  href="/projects/CharalambosPoyiadjisCV2023.docx" download>
+      <a  href="/projects/Charalambos-PoyiadjisCV.docx" download>
         <motion.button 
         className={`bg-indigo-600 text-white py-4 px-8 
         rounded-lg font-bold text-lg mt-5`}
